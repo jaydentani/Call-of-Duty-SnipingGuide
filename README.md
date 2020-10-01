@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+## Choosing a Sniper
 
-You can use the [editor on GitHub](https://github.com/jaydentani/Call-of-Duty-SnipingGuide/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+There are three useable snipers in Warzone, the HDR, Kar 98, and AX-50.  These all come with goods and bads, and your choice depends on how you would like to play.  The Kar 98 is for someone who likes to get close to the emeny, and get lots of kills.  The HDR is for the people that want to be a true sniper, by sitting back and watchin gout for your team.  The AX-50 is the middle ground, however I do not recomend using this.   
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Lininng up Your Shot
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
