@@ -4,10 +4,8 @@ There are three useable snipers in Warzone, the HDR, Kar 98, and AX-50.  These a
 
 ### Lininng up Your Shot
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+When aiming, you always want to take your shot as soon a possible.  The longer you take, the more time the other team has to see you.  You want to aim where you think they are going to be rather than aiming on top of them.  It will take time for you to learn how far you will have to aim, and how long it will take the bullet to hit. 
 
-```markdown
-Syntax highlighted code block
 
 # Choosing a Sniper
 ## Lining up the Shot
