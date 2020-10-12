@@ -2,6 +2,7 @@
 # Choosing a Sniper
 
 There are three useable snipers in Warzone, the HDR, Kar 98, and AX-50.  These all come with goods and bads, and your choice depends on how you would like to play.  The Kar 98 is for someone who likes to get close to the emeny, and get lots of kills.  The HDR is for the people that want to be a true sniper, by sitting back and watchin gout for your team.  The AX-50 is the middle ground, however I do not recomend using this.   
+![image](https://user-images.githubusercontent.com/72216056/95700228-54a92480-0bfb-11eb-99ef-b903b780e283.png)
 
 ## Lininng up Your Shot
 
